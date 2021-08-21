@@ -35,6 +35,9 @@ The above resources took me 2 days to create ...
 These resources should be extremely useful for my students, but
 maybe they are useful to others out there as well.
 
+## Screen shots of what we build in this tutorial series:
+![Student Admin App](ScreenShots/StudentAdminApp.png?raw=true "Student Admin App")
+
 ## FAQ:
 * Q. Why are you suddenly using Java, NetBeans, Scene Builder ???  What happened to TextPad ?
 * A. The courses I am now teaching use Java, NetBeans, Scene Builder, so my students use these tools, and therefore any videos I create for my students will use these tools.
@@ -47,10 +50,6 @@ maybe they are useful to others out there as well.
 
 ## My Java Software Development Tutorial Videos YouTube channel:
 * http://tinyurl.com/MikesJavaVideos
-
-## Screen shots of what we build in this tutorial series:
-![Student Admin App](ScreenShots/StudentAdminApp.png?raw=true "Student Admin App")
-
 
 **Moose**
 <br>Moose's Software Valley - Established July, 1996.
