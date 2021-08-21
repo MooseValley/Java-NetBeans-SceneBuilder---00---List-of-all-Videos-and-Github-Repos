@@ -5,7 +5,8 @@ Here is a full list of all of my Java, JavaFX, NetBeans, SceneBuilder
 **Tutorial Videos** and my
 **GitHub Repos** containing the source code for each video.
 
-These resources should be very useful for anyone who has basic (or better)
+These resources
+should be very useful for anyone who has basic (or better)
 programming experience in Java and wants to come up to speed on
 **JavaFX, NetBeans, and SceneBuilder**.
 
@@ -31,7 +32,25 @@ programming experience in Java and wants to come up to speed on
 
 The above resources took me 2 days to create ...
 
-Hope these resources are useful to someone out there.
+These resources should be extremely useful for my students, but
+maybe they are useful to others out there as well.
+
+## FAQ:
+* Q. Why are you suddenly using Java, NetBeans, Scene Builder ???  What happened to TextPad ?
+* A. The courses I am now teaching use Java, NetBeans, Scene Builder, so my students use these tools, and therefore any videos I create for my students will use these tools.
+* Q. The way you have shown X,Y,Z is not the best way to do things ?
+* A. The videos are primarily for my students, and I show them how best to do things with the Java they have covered so far.
+
+## FREE Software used in this video:
+* Java Development Kit JDK 8u111 (v1.8.111) and NetBeans IDE 8.2 (Build 201705191307): https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html
+* JavaFX Scene Builder 8.5.0 for Java 8: https://gluonhq.com/products/scene-builder/
+
+## My Java Software Development Tutorial Videos YouTube channel:
+* http://tinyurl.com/MikesJavaVideos
+
+## Screen shots of what we build in this tutorial series:
+![Student Admin App](ScreenShots/StudentAdminApp.png?raw=true "Student Admin App")
+
 
 **Moose**
 <br>Moose's Software Valley - Established July, 1996.

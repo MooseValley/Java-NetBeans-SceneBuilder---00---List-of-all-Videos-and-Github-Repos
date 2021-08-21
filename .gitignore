@@ -1,0 +1,7 @@
+/test
+/build
+/dist
+
+*.zip
+*.ppt
+*.pptx
