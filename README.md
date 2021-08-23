@@ -10,7 +10,7 @@ should be very useful for anyone who has basic (or better)
 programming experience in Java and wants to come up to speed on
 **JavaFX, NetBeans, and SceneBuilder**.
 
-## Data Entry / Student Admin App - Tutorial Videos:
+## Data Entry / Student Admin App - Tutorial Videos: **YouTube**
 * Multiple Scenes: https://youtu.be/m5853rAfekE
 * Part 01 - Add a Student: https://youtu.be/P4D73ZEaja0
 * Part 02 - Display All Students: https://youtu.be/NPT_6mv0CdM
@@ -20,8 +20,8 @@ programming experience in Java and wants to come up to speed on
 * Part 06 - Add Test Data: https://youtu.be/BbvD6s2g_Q8
 * Part 07 - Display All Student Enrolments: https://youtu.be/967rpvwNc1U
 
-## Data Entry / Student Admin App - Tutorial Videos:
-* All videos on LBRY / Odysee: https://odysee.com/@MoosesValley:0/JavaFX:4
+## Data Entry / Student Admin App - Tutorial Videos: **LBRY / Odysee**
+* All videos on **LBRY / Odysee**: https://odysee.com/@MoosesValley:0/JavaFX:4
 
 ## Java Source Code as it is at the end of each video:
 * Multiple Scenes: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Multiple-Scenes
