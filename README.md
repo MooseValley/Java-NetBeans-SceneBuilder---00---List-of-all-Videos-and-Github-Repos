@@ -20,7 +20,10 @@ programming experience in Java and wants to come up to speed on
 * Part 06 - Add Test Data: https://youtu.be/BbvD6s2g_Q8
 * Part 07 - Display All Student Enrolments: https://youtu.be/967rpvwNc1U
 
-## Source Code as it is at the end of each video:
+## Data Entry / Student Admin App - Tutorial Videos:
+* All videos on LBRY / Odysee: https://odysee.com/@MoosesValley:0/JavaFX:4
+
+## Java Source Code as it is at the end of each video:
 * Multiple Scenes: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Multiple-Scenes
 * Part 01 - Add a Student: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Data-Entry-App---Part-01---Add-A-Student
 * Part 02 - Display All Students: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Data-Entry-App---Part-02---Display-All-Students
@@ -30,7 +33,7 @@ programming experience in Java and wants to come up to speed on
 * Part 06 - Add Test Data: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Data-Entry-App---Part-06---Add-Test-Data
 * Part 07 - Display All Student Enrolments: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Data-Entry-App---Part-07---Display-All-Student-Enrolments
 
-The above resources took me 2 days to create ...
+The above resources took me about 2 days to create ...
 
 These resources should be extremely useful for my students, but
 maybe they are useful to others out there as well.
@@ -54,5 +57,3 @@ maybe they are useful to others out there as well.
 **Moose**
 <br>Moose's Software Valley - Established July, 1996.
 <br>https://rebrand.ly/MoosesSoftware
-
-
