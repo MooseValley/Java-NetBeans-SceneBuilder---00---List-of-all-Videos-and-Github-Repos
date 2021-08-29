@@ -56,6 +56,12 @@ maybe they are useful to others out there as well.
 ## My Java Software Development Tutorial Videos YouTube channel:
 * http://tinyurl.com/MikesJavaVideos
 
+## Java CHM Help file:
+In many videos you will see me using **Franck Allimant's awesome Java CHM Help file**, but sadly he has not updated these since Java 8 (which I use) and the help does not include any JavaFX components - it is Swing and AWT only - so the help (at this stage) is only partially useful for JavaFX programmers, which is a shame.  You can grab the Java CHM Help files here:
+<br>
+* https://javadoc.allimant.org/
+
+
 **Moose**
 <br>Moose's Software Valley - Established July, 1996.
 <br>https://moosevalley.github.io/
