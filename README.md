@@ -26,16 +26,16 @@ programming experience in Java and wants to come up to speed on
 * All videos on **LBRY / Odysee**: https://odysee.com/@MoosesValley:0/JavaFX:4
 
 ## Java Source Code as it is at the end of each video:
-* Multiple Scenes: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Multiple-Scenes
-* DatePickers and LocalDates: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Date-Pickers-and-LocalDates
+* Multiple Scenes: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Multiple-Scenes
+* DatePickers and LocalDates: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Date-Pickers-and-LocalDates
 * Error - Incompatible Types - cannot be converted to ObservableList CAP 1: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Error---Incompatible-Types---cannot-be-converted-to-ObservableList-.git
-* Part 01 - Add a Student: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Data-Entry-App---Part-01---Add-A-Student
-* Part 02 - Display All Students: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Data-Entry-App---Part-02---Display-All-Students
-* Part 03 - Add and Display Courses: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Data-Entry-App---Part-03---Add-and-Display-Courses
-* Part 04 - Add Student Course Enrolment 01: : https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Data-Entry-App---Part-04---Add-Student-Course-Enrolment-01
-* Part 05 - Add Student Course Enrolment 02: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Data-Entry-App---Part-05---Add-Student-Course-Enrolment-02
-* Part 06 - Add Test Data: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Data-Entry-App---Part-06---Add-Test-Data
-* Part 07 - Display All Student Enrolments: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Data-Entry-App---Part-07---Display-All-Student-Enrolments
+* Part 01 - Add a Student: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Data-Entry-App---Part-01---Add-A-Student
+* Part 02 - Display All Students: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Data-Entry-App---Part-02---Display-All-Students
+* Part 03 - Add and Display Courses: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Data-Entry-App---Part-03---Add-and-Display-Courses
+* Part 04 - Add Student Course Enrolment 01: : https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Data-Entry-App---Part-04---Add-Student-Course-Enrolment-01
+* Part 05 - Add Student Course Enrolment 02: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Data-Entry-App---Part-05---Add-Student-Course-Enrolment-02
+* Part 06 - Add Test Data: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Data-Entry-App---Part-06---Add-Test-Data
+* Part 07 - Display All Student Enrolments: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Data-Entry-App---Part-07---Display-All-Student-Enrolments
 
 These resources should be extremely useful for my students, but
 maybe they are useful to others out there as well.
