@@ -10,11 +10,10 @@ should be very useful for anyone who has basic (or better)
 programming experience in Java and wants to come up to speed on
 **JavaFX, NetBeans, and SceneBuilder**.
 
-## Getting Started Tutorial Videos: **YouTube**
+## Getting Started, Data Entry / Student Admin App, and all other Tutorial Videos: **YouTube**
 * Multiple Scenes: https://youtu.be/m5853rAfekE
+* DatePickers and LocalDates: https://youtu.be/W-Y9vo_SglI
 * Error - Incompatible Types - cannot be converted to ObservableList CAP 1: https://youtu.be/_VroSG2473g
-
-## Data Entry / Student Admin App - Tutorial Videos: **YouTube**
 * Part 01 - Add a Student: https://youtu.be/P4D73ZEaja0
 * Part 02 - Display All Students: https://youtu.be/NPT_6mv0CdM
 * Part 03 - Add and Display Courses: https://youtu.be/rLYwbhxtcdo
@@ -28,6 +27,7 @@ programming experience in Java and wants to come up to speed on
 
 ## Java Source Code as it is at the end of each video:
 * Multiple Scenes: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Multiple-Scenes
+* DatePickers and LocalDates: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Date-Pickers-and-LocalDates
 * Error - Incompatible Types - cannot be converted to ObservableList CAP 1: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Error---Incompatible-Types---cannot-be-converted-to-ObservableList-.git
 * Part 01 - Add a Student: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Data-Entry-App---Part-01---Add-A-Student
 * Part 02 - Display All Students: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Data-Entry-App---Part-02---Display-All-Students
@@ -36,8 +36,6 @@ programming experience in Java and wants to come up to speed on
 * Part 05 - Add Student Course Enrolment 02: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Data-Entry-App---Part-05---Add-Student-Course-Enrolment-02
 * Part 06 - Add Test Data: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Data-Entry-App---Part-06---Add-Test-Data
 * Part 07 - Display All Student Enrolments: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Data-Entry-App---Part-07---Display-All-Student-Enrolments
-
-The above resources took me about 2 days to create ...
 
 These resources should be extremely useful for my students, but
 maybe they are useful to others out there as well.
