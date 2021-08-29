@@ -10,8 +10,11 @@ should be very useful for anyone who has basic (or better)
 programming experience in Java and wants to come up to speed on
 **JavaFX, NetBeans, and SceneBuilder**.
 
-## Data Entry / Student Admin App - Tutorial Videos: **YouTube**
+## Getting Started Tutorial Videos: **YouTube**
 * Multiple Scenes: https://youtu.be/m5853rAfekE
+* Error - Incompatible Types - cannot be converted to ObservableList CAP 1: https://youtu.be/_VroSG2473g
+
+## Data Entry / Student Admin App - Tutorial Videos: **YouTube**
 * Part 01 - Add a Student: https://youtu.be/P4D73ZEaja0
 * Part 02 - Display All Students: https://youtu.be/NPT_6mv0CdM
 * Part 03 - Add and Display Courses: https://youtu.be/rLYwbhxtcdo
@@ -20,11 +23,12 @@ programming experience in Java and wants to come up to speed on
 * Part 06 - Add Test Data: https://youtu.be/BbvD6s2g_Q8
 * Part 07 - Display All Student Enrolments: https://youtu.be/967rpvwNc1U
 
-## Data Entry / Student Admin App - Tutorial Videos: **LBRY / Odysee**
+## All Tutorial Videos are also on **LBRY / Odysee**
 * All videos on **LBRY / Odysee**: https://odysee.com/@MoosesValley:0/JavaFX:4
 
 ## Java Source Code as it is at the end of each video:
 * Multiple Scenes: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Multiple-Scenes
+* Error - Incompatible Types - cannot be converted to ObservableList CAP 1: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Error---Incompatible-Types---cannot-be-converted-to-ObservableList-.git
 * Part 01 - Add a Student: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Data-Entry-App---Part-01---Add-A-Student
 * Part 02 - Display All Students: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Data-Entry-App---Part-02---Display-All-Students
 * Part 03 - Add and Display Courses: https://github.com/MooseValley/Java-NetBeans-SceneBuilder---Data-Entry-App---Part-03---Add-and-Display-Courses
