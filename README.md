@@ -58,4 +58,4 @@ maybe they are useful to others out there as well.
 
 **Moose**
 <br>Moose's Software Valley - Established July, 1996.
-<br>https://rebrand.ly/MoosesSoftware
+<br>https://moosevalley.github.io/
