@@ -21,6 +21,7 @@ programming experience in Java and wants to come up to speed on
 * Part 05 - Add Student Course Enrolment 02: https://youtu.be/UX5s22q8KwE
 * Part 06 - Add Test Data: https://youtu.be/BbvD6s2g_Q8
 * Part 07 - Display All Student Enrolments: https://youtu.be/967rpvwNc1U
+* Part 08 - Improve User Inputs Validation, Exception Handling, User Defined Exceptions: https://youtu.be/GsEhWXDpHCY
 
 ## All Tutorial Videos are also on **LBRY / Odysee**
 * All videos on **LBRY / Odysee**: https://odysee.com/@MoosesValley:0/JavaFX:4
@@ -36,6 +37,7 @@ programming experience in Java and wants to come up to speed on
 * Part 05 - Add Student Course Enrolment 02: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Data-Entry-App---Part-05---Add-Student-Course-Enrolment-02
 * Part 06 - Add Test Data: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Data-Entry-App---Part-06---Add-Test-Data
 * Part 07 - Display All Student Enrolments: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Data-Entry-App---Part-07---Display-All-Student-Enrolments
+* Part 08 - Improve User Inputs Validation, Exception Handling, User Defined Exceptions: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Data-Entry-App---Part-08---Improve-User-Inputs-Validation-Exceptio
 
 These resources should be extremely useful for my students, but
 maybe they are useful to others out there as well.
