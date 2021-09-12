@@ -43,7 +43,7 @@ programming experience in Java and wants to come up to speed on
 * Part 06 - Add Test Data: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Data-Entry-App---Part-06---Add-Test-Data
 * Part 07 - Display All Student Enrolments: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Data-Entry-App---Part-07---Display-All-Student-Enrolments
 * Part 08 - Improve User Inputs Validation, Exception Handling, User Defined Exceptions: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Data-Entry-App---Part-08---Improve-User-Inputs-Validation-Exceptio
-* Part 09 - Exit Confirmation, handle X icon (close): https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Data-Entry-App---Part-09---File-IO---read-write-save-load
+* Part 09 - Exit Confirmation, handle X icon (close): https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Data-Entry-App---Part-09---Exit-Confirmation-handle-X-icon-close-
 * Part 10 - File I/O - Preparation and Strategy: https://github.com/MooseValley/Data-Entry-App---Part-10---File-IO---Preparation-and-Strategy
 * Part 11 - File I/O - Load and Save Students and Courses: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Data-Entry-App---Part-11---File-IO---Load-and-Save-Students-and-Cou
 
