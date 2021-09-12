@@ -13,7 +13,7 @@ programming experience in Java and wants to come up to speed on
 ## Getting Started, Data Entry / Student Admin App, and all other Tutorial Videos: **YouTube**
 * Multiple Scenes: https://youtu.be/m5853rAfekE
 * DatePickers and LocalDates: https://youtu.be/W-Y9vo_SglI
-* FileI/O basics - read, write, load, save files: https://youtu.be/KV6hlM3iiag
+* File I/O basics - read, write, load, save files: https://youtu.be/KV6hlM3iiag
 * Error - Incompatible Types - cannot be converted to ObservableList CAP 1: https://youtu.be/_VroSG2473g
 * Part 01 - Add a Student: https://youtu.be/P4D73ZEaja0
 * Part 02 - Display All Students: https://youtu.be/NPT_6mv0CdM
@@ -34,7 +34,7 @@ programming experience in Java and wants to come up to speed on
 ## Java Source Code as it is at the end of each video:
 * Multiple Scenes: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Multiple-Scenes
 * DatePickers and LocalDates: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Date-Pickers-and-LocalDates
-* FileI/O basics - read, write, load, save files: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---FileIO-basics
+* File I/O basics - read, write, load, save files: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---FileIO-basics
 * Error - Incompatible Types - cannot be converted to ObservableList CAP 1: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Error---Incompatible-Types---cannot-be-converted-to-ObservableList-.git
 * Part 01 - Add a Student: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Data-Entry-App---Part-01---Add-A-Student
 * Part 02 - Display All Students: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Data-Entry-App---Part-02---Display-All-Students
@@ -60,6 +60,9 @@ maybe they are useful to others out there as well.
 * A. The courses I am now teaching use Java, NetBeans, Scene Builder, so my students use these tools, and therefore any videos I create for my students will use these tools.
 * Q. The way you have shown X,Y,Z is not the best way to do things ?
 * A. The videos are primarily for my students, and I show them how best to do things with the Java they have covered so far.
+* Q. Why are you using NetBeans 8.2, SceneBuilder for Java 8, and Java 8 ???  They are ancient.  What aren't you using the most recent versions ???
+* A. If it was still down to me, I probably would be using the most recent versions.  But I am no longer a course coordinator, so I don't get to make any of these decisions anymore.  For whatever reason(s), the courses I teach specify NetBeans 8.2, SceneBuilder for Java 8, and Java 8.  That's the prescribed / required software.  That's what is installed on all Lab computers.  That is the software that teachers, tutors, and markers are expected to use.  That's what students are **required** to use.  And in any case, Java 8 is a long wat from obsolete, and is still in Long Term Support (LTS) until at least 2028.
+
 
 ## FREE Software used in this video:
 * Java Development Kit JDK 8u111 (v1.8.111) and NetBeans IDE 8.2 (Build 201705191307): https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html
