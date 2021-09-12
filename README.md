@@ -26,7 +26,7 @@ programming experience in Java and wants to come up to speed on
 * Part 09 - Exit Confirmation, handle X icon (close): https://youtu.be/ESYNMtsx1kQ
 * Part 10 - File I/O - Preparation and Strategy: https://youtu.be/HoUy026CbLE
 * Part 11 - File I/O - Load and Save Students and Courses: https://youtu.be/4kRaOsogpxk
-* Part 12 - File IO - Load and Save Enrolments: https://youtu.be/9gctczsb6O8
+* Part 12 - File I/O - Load and Save Enrolments: https://youtu.be/9gctczsb6O8
 
 ## All Tutorial Videos are also on **LBRY / Odysee**
 * All videos on **LBRY / Odysee**: https://odysee.com/@MoosesValley:0/JavaFX:4
@@ -47,7 +47,7 @@ programming experience in Java and wants to come up to speed on
 * Part 09 - Exit Confirmation, handle X icon (close): https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Data-Entry-App---Part-09---Exit-Confirmation-handle-X-icon-close-
 * Part 10 - File I/O - Preparation and Strategy: https://github.com/MooseValley/Data-Entry-App---Part-10---File-IO---Preparation-and-Strategy
 * Part 11 - File I/O - Load and Save Students and Courses: https://github.com/MooseValley/JavaFX-NetBeans-SceneBuilder---Data-Entry-App---Part-11---File-IO---Load-and-Save-Students-and-Cou
-* Part 12 - File IO - Load and Save Enrolments: https://github.com/MooseValley/Data-Entry-App---Part-12---File-IO---Load-and-Save-Enrolments
+* Part 12 - File I/O - Load and Save Enrolments: https://github.com/MooseValley/Data-Entry-App---Part-12---File-IO---Load-and-Save-Enrolments
 
 These resources should be extremely useful for my students, but
 maybe they are useful to others out there as well.
