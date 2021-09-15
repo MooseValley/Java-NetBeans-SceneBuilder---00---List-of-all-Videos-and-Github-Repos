@@ -60,16 +60,19 @@ maybe they are useful to others out there as well.
 * A. The courses I am now teaching use Java, NetBeans, Scene Builder, so my students use these tools, and therefore any videos I create for my students will use these tools.
 * Q. The way you have shown X,Y,Z is not the best way to do things ?
 * A. The videos are primarily for my students, and I show them how best to do things with the Java they have covered so far.
-* Q. Why are you using NetBeans 8.2, SceneBuilder for Java 8, and Java 8 ???  They are ancient.  What aren't you using the most recent versions ???
-* A. If it was still down to me, I probably would be using the most recent versions.  But I am no longer a course coordinator, so I don't get to make any of these decisions anymore.  For whatever reason(s), the courses I teach specify NetBeans 8.2, SceneBuilder for Java 8, and Java 8.  That's the prescribed / required software.  That's what is installed on all Lab computers.  That is the software that teachers, tutors, and markers are expected to use.  That's what students are **required** to use.  And in any case, Java 8 is a long wat from obsolete, and is still in Long Term Support (LTS) until at least 2028.
+* Q. Why are you using **NetBeans 8.2**, **SceneBuilder for Java 8**, and **Java 8** ???  They are ancient.  What aren't you using the most recent versions ???
+* A. If it was still down to me, I probably would be using the most recent versions of Java, NetBeans, and SceneBuilder. But I am no longer a course coordinator, so I don't get to make any of the decisions about courses, course software, etc anymore. For whatever reason(s), the courses I teach specify NetBeans 8.2, SceneBuilder for Java 8, and Java 8.  That's the prescribed / required software.  That's what is installed on all Lab computers.  That is the software that teachers, tutors, and markers are expected to use.  That's what students are required to use.  So, I'm kind of stuck in "yesterday land" for now.  But, will probably do some future videos on the latest versions one day ...  On the other hand, Java 8 is a long way from being obsolete, it is in Long Term Support (LTS) until at least 2028.
 
 
-## FREE Software used in this video:
+## FREE Software used in all of these tutorials:
 * Java Development Kit JDK 8u111 (v1.8.111) and NetBeans IDE 8.2 (Build 201705191307): https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html
 * JavaFX Scene Builder 8.5.0 for Java 8: https://gluonhq.com/products/scene-builder/
 
-## My Java Software Development Tutorial Videos YouTube channel:
+## My Java Software Development Tutorial Videos YouTube channel (also includes everything in my Java, JavaFX, NetBeans, SceneBuilder Software Development Tutorial Videos YouTube channel):
 * http://tinyurl.com/MikesJavaVideos
+
+## My Java, JavaFX, NetBeans, SceneBuilder Software Development Tutorial Videos YouTube channel (just the JavaFX, NetBeans, SceneBuilder videos):
+* https://tinyurl.com/MikesJavaFXVideos
 
 ## Java CHM Help file:
 In many videos you will see me using **Franck Allimant's awesome Java CHM Help file**.  Sadly he has not updated these since Java 8 (which I still use) and the help does not include JavaFX components - it is Swing and AWT only - so the help (at this stage) is only partially useful for JavaFX programmers, which is a shame.  You can grab the Java CHM Help files here:
